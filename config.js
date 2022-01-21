@@ -14,7 +14,7 @@ module.exports = {
 "api": "", // Your Youtube Api
 "youtubeAPI": "", // Your Youtube Api
 mainprefix: "",  // Again Your Prefix
-"owner": "G U D B O Y", // Owner Name
+"owner": "cat", // Owner Name
 
   basiclang: "en", //The basic language of the bot, "fr" for French and "en" for English
     embeds: {
